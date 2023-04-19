@@ -4,7 +4,8 @@
 ## Instructions:
   1) Create a folder named `data` in the same folder as the cleanup scripts 
      and copy/move all your fitbit export folders into `data`.
-  2) Open your command line environment and run:
+  2) Open `fitbit_data_setup.sh` in your preferred code editor and adjust the commenting within the denoted customization block to process/skip whatever you want... the default should be fine for most people. 
+  3) Open your command line environment and run:
       ```
       bash fitbit_data_setup.sh
       ```
